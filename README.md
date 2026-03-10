@@ -59,12 +59,6 @@ flutter run --dart-define=SUPABASE_URL=YOUR_SUPABASE_URL --dart-define=SUPABASE_
 
 ---
 
-## 📸 Screenshots
-*(Add your app screenshots here!)*
-
-| Auth Screen | Home Feed | Escapade Details | Joined Escapades |
-|-------------|-----------|------------------|------------------|
-| <img src="assets/images/placeholder.png" width="200"> | <img src="assets/images/placeholder.png" width="200"> | <img src="assets/images/placeholder.png" width="200"> | <img src="assets/images/placeholder.png" width="200"> |
 
 ---
 
