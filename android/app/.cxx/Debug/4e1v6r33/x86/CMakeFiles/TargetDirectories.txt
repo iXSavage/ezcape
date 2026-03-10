@@ -1,0 +1,2 @@
+/Users/ixsavage/StudioProjects/ezcape/android/app/.cxx/Debug/4e1v6r33/x86/CMakeFiles/edit_cache.dir
+/Users/ixsavage/StudioProjects/ezcape/android/app/.cxx/Debug/4e1v6r33/x86/CMakeFiles/rebuild_cache.dir

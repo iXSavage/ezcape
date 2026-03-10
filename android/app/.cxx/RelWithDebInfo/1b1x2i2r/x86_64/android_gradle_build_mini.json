@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/ixsavage/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ixsavage/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ixsavage/StudioProjects/ezcape/android/app/.cxx/RelWithDebInfo/1b1x2i2r/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ixsavage/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ixsavage/StudioProjects/ezcape/android/app/.cxx/RelWithDebInfo/1b1x2i2r/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
