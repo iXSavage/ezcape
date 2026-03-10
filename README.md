@@ -58,7 +58,11 @@ flutter run --dart-define=SUPABASE_URL=YOUR_SUPABASE_URL --dart-define=SUPABASE_
 > **Note:** For convenience during development, you can create a `.env` file at the root of the project with these values. Ensure `.env` is added to your `.gitignore` to prevent leaking credentials!
 
 ---
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 32 07" src="https://github.com/user-attachments/assets/b6257f4f-ad91-4332-bdd6-dd6fcc9ba924"  />
 
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 30 42" src="https://github.com/user-attachments/assets/e7d58b20-015b-42c7-bfaa-de073dbc0a07"  />
+
+<img width="308" height="621" alt="Screenshot 2026-03-10 at 23 30 58" src="https://github.com/user-attachments/assets/3fee06c9-bfc7-44d3-8bcc-df57adcc1718"  />
 
 ---
 
