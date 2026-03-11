@@ -13,6 +13,10 @@ A modern, highly-responsive social event discovery application built with Flutte
 *   **Responsive UI:** Pixel-perfect, scalable UI across all mobile devices using `flutter_screenutil`, custom SVG assets, and elegant gradient overlays.
 
 ---
+📦 Download APK
+[Download Latest APK](https://github.com/iXSavage/ezcape/releases/tag/v1.0.0)
+
+---
 
 ## 🛠️ Tech Stack 
 
