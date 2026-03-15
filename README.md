@@ -37,7 +37,7 @@ To run this project locally, you will need to connect it to your own Supabase in
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ezcape.git
+git clone https://github.com/iXSavage/ezcape.git
 cd ezcape
 ```
 
